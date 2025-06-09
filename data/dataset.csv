@@ -1,297 +1,297 @@
-id,iso2Code,name
-ABW,AW,Aruba
-AFE,ZH,Africa Eastern and Southern
-AFG,AF,Afghanistan
-AFR,A9,Africa
-AFW,ZI,Africa Western and Central
-AGO,AO,Angola
-ALB,AL,Albania
-AND,AD,Andorra
-ARB,1A,Arab World
-ARE,AE,United Arab Emirates
-ARG,AR,Argentina
-ARM,AM,Armenia
-ASM,AS,American Samoa
-ATG,AG,Antigua and Barbuda
-AUS,AU,Australia
-AUT,AT,Austria
-AZE,AZ,Azerbaijan
-BDI,BI,Burundi
-BEA,B4,East Asia & Pacific (IBRD-only countries)
-BEC,B7,Europe & Central Asia (IBRD-only countries)
-BEL,BE,Belgium
-BEN,BJ,Benin
-BFA,BF,Burkina Faso
-BGD,BD,Bangladesh
-BGR,BG,Bulgaria
-BHI,B1,IBRD countries classified as high income
-BHR,BH,Bahrain
-BHS,BS,"Bahamas, The"
-BIH,BA,Bosnia and Herzegovina
-BLA,B2,Latin America & the Caribbean (IBRD-only countries)
-BLR,BY,Belarus
-BLZ,BZ,Belize
-BMN,B3,Middle East & North Africa (IBRD-only countries)
-BMU,BM,Bermuda
-BOL,BO,Bolivia
-BRA,BR,Brazil
-BRB,BB,Barbados
-BRN,BN,Brunei Darussalam
-BSS,B6,Sub-Saharan Africa (IBRD-only countries)
-BTN,BT,Bhutan
-BWA,BW,Botswana
-CAA,C9,Sub-Saharan Africa (IFC classification)
-CAF,CF,Central African Republic
-CAN,CA,Canada
-CEA,C4,East Asia and the Pacific (IFC classification)
-CEB,B8,Central Europe and the Baltics
-CEU,C5,Europe and Central Asia (IFC classification)
-CHE,CH,Switzerland
-CHI,JG,Channel Islands
-CHL,CL,Chile
-CHN,CN,China
-CIV,CI,Cote d'Ivoire
-CLA,C6,Latin America and the Caribbean (IFC classification)
-CME,C7,Middle East and North Africa (IFC classification)
-CMR,CM,Cameroon
-COD,CD,"Congo, Dem. Rep."
-COG,CG,"Congo, Rep."
-COL,CO,Colombia
-COM,KM,Comoros
-CPV,CV,Cabo Verde
-CRI,CR,Costa Rica
-CSA,C8,South Asia (IFC classification)
-CSS,S3,Caribbean small states
-CUB,CU,Cuba
-CUW,CW,Curacao
-CYM,KY,Cayman Islands
-CYP,CY,Cyprus
-CZE,CZ,Czechia
-DEA,D4,East Asia & Pacific (IDA-eligible countries)
-DEC,D7,Europe & Central Asia (IDA-eligible countries)
-DEU,DE,Germany
-DJI,DJ,Djibouti
-DLA,D2,Latin America & the Caribbean (IDA-eligible countries)
-DMA,DM,Dominica
-DMN,D3,Middle East & North Africa (IDA-eligible countries)
-DNK,DK,Denmark
-DNS,N6,IDA countries in Sub-Saharan Africa not classified as fragile situations 
-DOM,DO,Dominican Republic
-DSA,D5,South Asia (IDA-eligible countries)
-DSF,F6,IDA countries in Sub-Saharan Africa classified as fragile situations 
-DSS,D6,Sub-Saharan Africa (IDA-eligible countries)
-DZA,DZ,Algeria
-EAP,4E,East Asia & Pacific (excluding high income)
-EAR,V2,Early-demographic dividend
-EAS,Z4,East Asia & Pacific
-ECA,7E,Europe & Central Asia (excluding high income)
-ECS,Z7,Europe & Central Asia
-ECU,EC,Ecuador
-EGY,EG,"Egypt, Arab Rep."
-EMU,XC,Euro area
-ERI,ER,Eritrea
-ESP,ES,Spain
-EST,EE,Estonia
-ETH,ET,Ethiopia
-EUU,EU,European Union
-FCS,F1,Fragile and conflict affected situations
-FIN,FI,Finland
-FJI,FJ,Fiji
-FRA,FR,France
-FRO,FO,Faroe Islands
-FSM,FM,"Micronesia, Fed. Sts."
-FXS,6F,"IDA countries classified as fragile situations, excluding Sub-Saharan Africa"
-GAB,GA,Gabon
-GBR,GB,United Kingdom
-GEO,GE,Georgia
-GHA,GH,Ghana
-GIB,GI,Gibraltar
-GIN,GN,Guinea
-GMB,GM,"Gambia, The"
-GNB,GW,Guinea-Bissau
-GNQ,GQ,Equatorial Guinea
-GRC,GR,Greece
-GRD,GD,Grenada
-GRL,GL,Greenland
-GTM,GT,Guatemala
-GUM,GU,Guam
-GUY,GY,Guyana
-HIC,XD,High income
-HKG,HK,"Hong Kong SAR, China"
-HND,HN,Honduras
-HPC,XE,Heavily indebted poor countries (HIPC)
-HRV,HR,Croatia
-HTI,HT,Haiti
-HUN,HU,Hungary
-IBB,ZB,"IBRD, including blend"
-IBD,XF,IBRD only
-IBT,ZT,IDA & IBRD total
-IDA,XG,IDA total
-IDB,XH,IDA blend
-IDN,ID,Indonesia
-IDX,XI,IDA only
-IMN,IM,Isle of Man
-IND,IN,India
-INX,XY,Not classified
-IRL,IE,Ireland
-IRN,IR,"Iran, Islamic Rep."
-IRQ,IQ,Iraq
-ISL,IS,Iceland
-ISR,IL,Israel
-ITA,IT,Italy
-JAM,JM,Jamaica
-JOR,JO,Jordan
-JPN,JP,Japan
-KAZ,KZ,Kazakhstan
-KEN,KE,Kenya
-KGZ,KG,Kyrgyz Republic
-KHM,KH,Cambodia
-KIR,KI,Kiribati
-KNA,KN,St. Kitts and Nevis
-KOR,KR,"Korea, Rep."
-KWT,KW,Kuwait
-LAC,XJ,Latin America & Caribbean (excluding high income)
-LAO,LA,Lao PDR
-LBN,LB,Lebanon
-LBR,LR,Liberia
-LBY,LY,Libya
-LCA,LC,St. Lucia
-LCN,ZJ,Latin America & Caribbean 
-LDC,XL,Least developed countries: UN classification
-LIC,XM,Low income
-LIE,LI,Liechtenstein
-LKA,LK,Sri Lanka
-LMC,XN,Lower middle income
-LMY,XO,Low & middle income
-LSO,LS,Lesotho
-LTE,V3,Late-demographic dividend
-LTU,LT,Lithuania
-LUX,LU,Luxembourg
-LVA,LV,Latvia
-MAC,MO,"Macao SAR, China"
-MAF,MF,St. Martin (French part)
-MAR,MA,Morocco
-MCO,MC,Monaco
-MDA,MD,Moldova
-MDE,M1,Middle East (developing only)
-MDG,MG,Madagascar
-MDV,MV,Maldives
-MEA,ZQ,Middle East & North Africa
-MEX,MX,Mexico
-MHL,MH,Marshall Islands
-MIC,XP,Middle income
-MKD,MK,North Macedonia
-MLI,ML,Mali
-MLT,MT,Malta
-MMR,MM,Myanmar
-MNA,XQ,Middle East & North Africa (excluding high income)
-MNE,ME,Montenegro
-MNG,MN,Mongolia
-MNP,MP,Northern Mariana Islands
-MOZ,MZ,Mozambique
-MRT,MR,Mauritania
-MUS,MU,Mauritius
-MWI,MW,Malawi
-MYS,MY,Malaysia
-NAC,XU,North America
-NAF,M2,North Africa
-NAM,NA,Namibia
-NCL,NC,New Caledonia
-NER,NE,Niger
-NGA,NG,Nigeria
-NIC,NI,Nicaragua
-NLD,NL,Netherlands
-NOR,NO,Norway
-NPL,NP,Nepal
-NRS,6X,Non-resource rich Sub-Saharan Africa countries
-NRU,NR,Nauru
-NXS,6N,"IDA countries not classified as fragile situations, excluding Sub-Saharan Africa"
-NZL,NZ,New Zealand
-OED,OE,OECD members
-OMN,OM,Oman
-OSS,S4,Other small states
-PAK,PK,Pakistan
-PAN,PA,Panama
-PER,PE,Peru
-PHL,PH,Philippines
-PLW,PW,Palau
-PNG,PG,Papua New Guinea
-POL,PL,Poland
-PRE,V1,Pre-demographic dividend
-PRI,PR,Puerto Rico
-PRK,KP,"Korea, Dem. People's Rep."
-PRT,PT,Portugal
-PRY,PY,Paraguay
-PSE,PS,West Bank and Gaza
-PSS,S2,Pacific island small states
-PST,V4,Post-demographic dividend
-PYF,PF,French Polynesia
-QAT,QA,Qatar
-ROU,RO,Romania
-RRS,R6,Resource rich Sub-Saharan Africa countries
-RUS,RU,Russian Federation
-RWA,RW,Rwanda
-SAS,8S,South Asia
-SAU,SA,Saudi Arabia
-SDN,SD,Sudan
-SEN,SN,Senegal
-SGP,SG,Singapore
-SLB,SB,Solomon Islands
-SLE,SL,Sierra Leone
-SLV,SV,El Salvador
-SMR,SM,San Marino
-SOM,SO,Somalia
-SRB,RS,Serbia
-SSA,ZF,Sub-Saharan Africa (excluding high income)
-SSD,SS,South Sudan
-SSF,ZG,Sub-Saharan Africa 
-SST,S1,Small states
-STP,ST,Sao Tome and Principe
-SUR,SR,Suriname
-SVK,SK,Slovak Republic
-SVN,SI,Slovenia
-SWE,SE,Sweden
-SWZ,SZ,Eswatini
-SXM,SX,Sint Maarten (Dutch part)
-SXZ,A4,Sub-Saharan Africa excluding South Africa
-SYC,SC,Seychelles
-SYR,SY,Syrian Arab Republic
-TCA,TC,Turks and Caicos Islands
-TCD,TD,Chad
-TEA,T4,East Asia & Pacific (IDA & IBRD countries)
-TEC,T7,Europe & Central Asia (IDA & IBRD countries)
-TGO,TG,Togo
-THA,TH,Thailand
-TJK,TJ,Tajikistan
-TKM,TM,Turkmenistan
-TLA,T2,Latin America & the Caribbean (IDA & IBRD countries)
-TLS,TL,Timor-Leste
-TMN,T3,Middle East & North Africa (IDA & IBRD countries)
-TON,TO,Tonga
-TSA,T5,South Asia (IDA & IBRD)
-TSS,T6,Sub-Saharan Africa (IDA & IBRD countries)
-TTO,TT,Trinidad and Tobago
-TUN,TN,Tunisia
-TUR,TR,Turkiye
-TUV,TV,Tuvalu
-TZA,TZ,Tanzania
-UGA,UG,Uganda
-UKR,UA,Ukraine
-UMC,XT,Upper middle income
-URY,UY,Uruguay
-USA,US,United States
-UZB,UZ,Uzbekistan
-VCT,VC,St. Vincent and the Grenadines
-VEN,VE,"Venezuela, RB"
-VGB,VG,British Virgin Islands
-VIR,VI,Virgin Islands (U.S.)
-VNM,VN,Viet Nam
-VUT,VU,Vanuatu
-WLD,1W,World
-WSM,WS,Samoa
-XKX,XK,Kosovo
-XZN,A5,Sub-Saharan Africa excluding South Africa and Nigeria
-YEM,YE,"Yemen, Rep."
-ZAF,ZA,South Africa
-ZMB,ZM,Zambia
-ZWE,ZW,Zimbabwe
+id,iso2Code,name,inflation_rate,gdp_percent_change,unemployment_rate,current_account_balance_%gdp,govt_debt_as_%_of_gdp
+ABW,AW,Aruba,-99999.0,2.2,,9.701,71.069
+AFE,ZH,Africa Eastern and Southern,-99999.0,-99999.0,7.772655522,-99999.0,-99999.0
+AFG,AF,Afghanistan,-3.366651547,2.267,13.295,-20.306,8.255
+AFR,A9,Africa,-99999.0,-99999.0,,-99999.0,-99999.0
+AFW,ZI,Africa Western and Central,-99999.0,-99999.0,3.218313421,-99999.0,-99999.0
+AGO,AO,Angola,25.17533009,2.374,14.464,2.115,64.523
+ALB,AL,Albania,1.97896113,3.788,10.25,-3.053,54.295
+AND,AD,Andorra,-99999.0,1.9,,16.893,31.996
+ARB,1A,Arab World,-99999.0,-99999.0,9.497758586,-99999.0,-99999.0
+ARE,AE,United Arab Emirates,1.00661519,3.991,2.133,6.61,32.817
+ARG,AR,Argentina,68.02620728,5.502,7.876,-0.391,73.091
+ARM,AM,Armenia,1.148469861,4.505,13.329,-4.522,54.478
+ASM,AS,American Samoa,-99999.0,-99999.0,,-99999.0,-99999.0
+ATG,AG,Antigua and Barbuda,5.675461891,3.048,,-10.49,63.405
+AUS,AU,Australia,2.401746725,1.634,4.072,-3.069,50.937
+AUT,AT,Austria,3.141077715,-0.261,5.439,2.631,82.882
+AZE,AZ,Azerbaijan,5.572212066,3.519,5.594,7.794,21.017
+BDI,BI,Burundi,30.14549616,1.866,0.902,-9.654,35.305
+BEA,B4,East Asia & Pacific (IBRD-only countries),-99999.0,-99999.0,,-99999.0,-99999.0
+BEC,B7,Europe & Central Asia (IBRD-only countries),-99999.0,-99999.0,,-99999.0,-99999.0
+BEL,BE,Belgium,3.510513721,0.839,5.488,-1.077,106.418
+BEN,BJ,Benin,0.448256442,6.511,1.722,-6.099,52.547
+BFA,BF,Burkina Faso,4.930212624,4.335,5.166,-2.141,50.163
+BGD,BD,Bangladesh,9.54081209,3.76,4.68,-0.934,40.258
+BGR,BG,Bulgaria,2.046213963,2.458,4.104,-1.453,28.04
+BHI,B1,IBRD countries classified as high income,-99999.0,-99999.0,,-99999.0,-99999.0
+BHR,BH,Bahrain,0.065832785,2.753,1.102,3.317,141.423
+BHS,BS,"Bahamas, The",-0.450180072,1.8,8.463,-7.821,79.39
+BIH,BA,Bosnia and Herzegovina,3.349609055,2.8,10.723,-3.808,33.794
+BLA,B2,Latin America & the Caribbean (IBRD-only countries),-99999.0,-99999.0,,-99999.0,-99999.0
+BLR,BY,Belarus,5.497301759,2.758,3.361,-2.788,42.922
+BLZ,BZ,Belize,1.698273422,3.218,7.0,-1.567,59.499
+BMN,B3,Middle East & North Africa (IBRD-only countries),-99999.0,-99999.0,,-99999.0,-99999.0
+BMU,BM,Bermuda,-99999.0,-99999.0,,-99999.0,-99999.0
+BOL,BO,Bolivia,13.30201218,1.14,3.091,-2.542,92.405
+BRA,BR,Brazil,5.033067807,2.01,7.634,-2.288,92.041
+BRB,BB,Barbados,-2.264150943,3.0,7.529,-6.239,97.733
+BRN,BN,Brunei Darussalam,-0.308085878,2.522,5.144,15.436,2.207
+BSS,B6,Sub-Saharan Africa (IBRD-only countries),-99999.0,-99999.0,,-99999.0,-99999.0
+BTN,BT,Bhutan,3.332179448,7.0,2.856,-28.757,102.884
+BWA,BW,Botswana,2.636794189,-0.364,23.138,-7.895,42.953
+CAA,C9,Sub-Saharan Africa (IFC classification),-99999.0,-99999.0,,-99999.0,-99999.0
+CAF,CF,Central African Republic,1.766784452,2.938,5.899,-6.883,58.292
+CAN,CA,Canada,2.285594464,1.376,6.45,-0.139,112.541
+CEA,C4,East Asia and the Pacific (IFC classification),-99999.0,-99999.0,,-99999.0,-99999.0
+CEB,B8,Central Europe and the Baltics,-99999.0,-99999.0,3.868096078,-99999.0,-99999.0
+CEU,C5,Europe and Central Asia (IFC classification),-99999.0,-99999.0,,-99999.0,-99999.0
+CHE,CH,Switzerland,0.356109469,0.876,4.11,5.041,36.897
+CHI,JG,Channel Islands,-99999.0,-99999.0,6.256,-99999.0,-99999.0
+CHL,CL,Chile,4.844476115,2.032,9.056,-2.062,42.984
+CHN,CN,China,-0.128783001,3.954,4.571,1.886,96.306
+CIV,CI,Cote d'Ivoire,2.41045984,6.3,2.288,-3.557,58.129
+CLA,C6,Latin America and the Caribbean (IFC classification),-99999.0,-99999.0,,-99999.0,-99999.0
+CME,C7,Middle East and North Africa (IFC classification),-99999.0,-99999.0,,-99999.0,-99999.0
+CMR,CM,Cameroon,4.667441292,3.611,3.518,-2.78,39.866
+COD,CD,"Congo, Dem. Rep.",-99999.0,4.692,4.556,-2.947,16.316
+COG,CG,"Congo, Rep.",6.211874734,3.311,19.694,-1.445,91.401
+COL,CO,Colombia,5.196183984,2.415,9.608,-2.256,59.724
+COM,KM,Comoros,-99999.0,3.776,3.875,-4.158,32.513
+CPV,CV,Cabo Verde,1.548723234,4.973,11.878,-2.221,109.607
+CRI,CR,Costa Rica,1.202898418,3.443,7.848,-1.78,59.661
+CSA,C8,South Asia (IFC classification),-99999.0,-99999.0,,-99999.0,-99999.0
+CSS,S3,Caribbean small states,-99999.0,-99999.0,8.88909855,-99999.0,-99999.0
+CUB,CU,Cuba,-99999.0,-99999.0,1.53,-99999.0,-99999.0
+CUW,CW,Curacao,-99999.0,-99999.0,,-99999.0,-99999.0
+CYM,KY,Cayman Islands,-99999.0,-99999.0,,-99999.0,-99999.0
+CYP,CY,Cyprus,1.989890774,2.545,5.602,-7.265,60.282
+CZE,CZ,Czechia,2.730905861,1.62,2.506,-0.075,44.219
+DEA,D4,East Asia & Pacific (IDA-eligible countries),-99999.0,-99999.0,,-99999.0,-99999.0
+DEC,D7,Europe & Central Asia (IDA-eligible countries),-99999.0,-99999.0,,-99999.0,-99999.0
+DEU,DE,Germany,2.257973469,-0.05,3.406,5.247,65.381
+DJI,DJ,Djibouti,-1.823416507,6.008,25.875,11.63,31.24
+DLA,D2,Latin America & the Caribbean (IDA-eligible countries),-99999.0,-99999.0,,-99999.0,-99999.0
+DMA,DM,Dominica,1.477557848,4.22,,-30.597,97.784
+DMN,D3,Middle East & North Africa (IDA-eligible countries),-99999.0,-99999.0,,-99999.0,-99999.0
+DNK,DK,Denmark,1.692047377,2.9,5.587,12.581,26.562
+DNS,N6,IDA countries in Sub-Saharan Africa not classified as fragile situations ,-99999.0,-99999.0,,-99999.0,-99999.0
+DOM,DO,Dominican Republic,3.48976666,4.021,5.473,-3.278,58.239
+DSA,D5,South Asia (IDA-eligible countries),-99999.0,-99999.0,,-99999.0,-99999.0
+DSF,F6,IDA countries in Sub-Saharan Africa classified as fragile situations ,-99999.0,-99999.0,,-99999.0,-99999.0
+DSS,D6,Sub-Saharan Africa (IDA-eligible countries),-99999.0,-99999.0,,-99999.0,-99999.0
+DZA,DZ,Algeria,3.441650252,3.496,11.427,-3.907,57.798
+EAP,4E,East Asia & Pacific (excluding high income),-99999.0,-99999.0,3.885339863,-99999.0,-99999.0
+EAR,V2,Early-demographic dividend,-99999.0,-99999.0,5.299429121,-99999.0,-99999.0
+EAS,Z4,East Asia & Pacific,-99999.0,-99999.0,3.782926824,-99999.0,-99999.0
+ECA,7E,Europe & Central Asia (excluding high income),-99999.0,-99999.0,6.910571286,-99999.0,-99999.0
+ECS,Z7,Europe & Central Asia,-99999.0,-99999.0,5.368220958,-99999.0,-99999.0
+ECU,EC,Ecuador,1.131135072,1.727,4.773,3.423,55.039
+EGY,EG,"Egypt, Arab Rep.",16.5306449,3.757,7.198,-5.81,86.589
+EMU,XC,Euro area,-99999.0,-99999.0,6.410452236,-99999.0,-99999.0
+ERI,ER,Eritrea,-99999.0,-99999.0,5.553,-99999.0,-99999.0
+ESP,ES,Spain,2.719920441,2.501,11.394,2.419,100.571
+EST,EE,Estonia,4.514404682,0.74,7.828,-2.569,25.405
+ETH,ET,Ethiopia,14.68242367,6.612,3.398,-4.757,41.806
+EUU,EU,European Union,-99999.0,-99999.0,5.916232011,-99999.0,-99999.0
+FCS,F1,Fragile and conflict affected situations,-99999.0,-99999.0,5.021248451,-99999.0,-99999.0
+FIN,FI,Finland,0.559024843,0.96,8.26,-0.505,86.441
+FJI,FJ,Fiji,2.291105121,2.59,4.307,-7.048,78.181
+FRA,FR,France,1.067615658,0.641,7.37,0.19,116.301
+FRO,FO,Faroe Islands,-99999.0,-99999.0,,-99999.0,-99999.0
+FSM,FM,"Micronesia, Fed. Sts.",-99999.0,1.085,,-1.332,9.176
+FXS,6F,"IDA countries classified as fragile situations, excluding Sub-Saharan Africa",-99999.0,-99999.0,,-99999.0,-99999.0
+GAB,GA,Gabon,1.366673344,2.774,20.061,2.178,79.236
+GBR,GB,United Kingdom,3.669724771,1.077,4.111,-3.684,103.894
+GEO,GE,Georgia,2.621707782,5.977,11.48,-4.376,35.849
+GHA,GH,Ghana,23.02991316,4.026,3.007,1.644,66.437
+GIB,GI,Gibraltar,-99999.0,-99999.0,,-99999.0,-99999.0
+GIN,GN,Guinea,4.384844615,7.086,5.23,-15.956,39.597
+GMB,GM,"Gambia, The",9.598239311,5.913,6.496,-4.903,67.475
+GNB,GW,Guinea-Bissau,5.316137498,5.1,2.622,-5.512,79.393
+GNQ,GQ,Equatorial Guinea,1.582484284,-4.204,7.823,-1.712,35.074
+GRC,GR,Greece,2.569249067,2.03,10.133,-6.538,142.169
+GRD,GD,Grenada,0.708822458,3.892,,-15.761,71.394
+GRL,GL,Greenland,-99999.0,-99999.0,,-99999.0,-99999.0
+GTM,GT,Guatemala,0.655181588,4.1,2.219,2.251,27.232
+GUM,GU,Guam,-99999.0,-99999.0,5.586,-99999.0,-99999.0
+GUY,GY,Guyana,3.031902135,10.315,10.165,8.931,27.695
+HIC,XD,High income,-99999.0,-99999.0,4.386451279,-99999.0,-99999.0
+HKG,HK,"Hong Kong SAR, China",1.589775561,1.522,2.793,11.427,11.806
+HND,HN,Honduras,4.504154694,3.3,6.061,-4.293,43.049
+HPC,XE,Heavily indebted poor countries (HIPC),-99999.0,-99999.0,4.212603895,-99999.0,-99999.0
+HRV,HR,Croatia,3.636839351,3.13,5.236,-0.677,55.902
+HTI,HT,Haiti,26.82717929,-1.0,15.058,0.438,11.773
+HUN,HU,Hungary,5.248786408,1.403,4.434,1.036,73.508
+IBB,ZB,"IBRD, including blend",-99999.0,-99999.0,,-99999.0,-99999.0
+IBD,XF,IBRD only,-99999.0,-99999.0,5.108894439,-99999.0,-99999.0
+IBT,ZT,IDA & IBRD total,-99999.0,-99999.0,4.976287692,-99999.0,-99999.0
+IDA,XG,IDA total,-99999.0,-99999.0,4.559479569,-99999.0,-99999.0
+IDB,XH,IDA blend,-99999.0,-99999.0,4.475426223,-99999.0,-99999.0
+IDN,ID,Indonesia,2.681237359,4.653,3.3,-1.485,40.99
+IDX,XI,IDA only,-99999.0,-99999.0,4.605220008,-99999.0,-99999.0
+IMN,IM,Isle of Man,-99999.0,-99999.0,,-99999.0,-99999.0
+IND,IN,India,3.733620535,6.198,4.202,-0.946,80.391
+INX,XY,Not classified,-99999.0,-99999.0,,-99999.0,-99999.0
+IRL,IE,Ireland,1.908908238,2.261,4.369,11.598,36.681
+IRN,IR,"Iran, Islamic Rep.",34.79734709,0.309,9.192,0.9,39.933
+IRQ,IQ,Iraq,-11.61079313,-1.503,15.524,1.49,50.216
+ISL,IS,Iceland,4.213128234,2.003,3.107,-1.949,52.854
+ISR,IL,Israel,3.530210455,3.25,3.15,2.779,69.083
+ITA,IT,Italy,1.664355062,0.44,6.778,0.907,137.28
+JAM,JM,Jamaica,5.22811344,2.1,4.885,0.872,64.601
+JOR,JO,Jordan,2.01859191,2.6,17.996,-5.539,92.551
+JPN,JP,Japan,3.769470405,0.554,2.563,3.39,234.858
+KAZ,KZ,Kazakhstan,9.418146086,4.881,4.794,-3.565,25.371
+KEN,KE,Kenya,2.822864132,4.81,5.434,-3.898,68.344
+KGZ,KG,Kyrgyz Republic,8.113269717,6.823,3.289,-8.525,38.475
+KHM,KH,Cambodia,0.765705399,4.005,0.27,2.261,29.077
+KIR,KI,Kiribati,6.666403369,3.9,,-0.599,8.771
+KNA,KN,St. Kitts and Nevis,1.589317893,1.964,,-13.068,60.203
+KOR,KR,"Korea, Rep.",2.106189498,1.027,2.604,3.5,54.453
+KWT,KW,Kuwait,2.432843386,1.866,2.144,22.72,7.354
+LAC,XJ,Latin America & Caribbean (excluding high income),-99999.0,-99999.0,6.154856277,-99999.0,-99999.0
+LAO,LA,Lao PDR,13.10938504,2.523,1.218,-0.058,91.38
+LBN,LB,Lebanon,15.29901967,-7.5,,-18.206,164.127
+LBR,LR,Liberia,7.337143197,5.334,2.882,-18.215,56.498
+LBY,LY,Libya,2.382825672,17.304,18.615,10.399,-99999.0
+LCA,LC,St. Lucia,-0.462034696,3.035,10.928,-0.978,73.634
+LCN,ZJ,Latin America & Caribbean ,-99999.0,-99999.0,6.238510554,-99999.0,-99999.0
+LDC,XL,Least developed countries: UN classification,-99999.0,-99999.0,4.891534033,-99999.0,-99999.0
+LIC,XM,Low income,-99999.0,-99999.0,4.735091203,-99999.0,-99999.0
+LIE,LI,Liechtenstein,-99999.0,-99999.0,,-99999.0,-99999.0
+LKA,LK,Sri Lanka,-9.867083659,5.009,4.996,1.764,99.434
+LMC,XN,Lower middle income,-99999.0,-99999.0,4.392130451,-99999.0,-99999.0
+LMY,XO,Low & middle income,-99999.0,-99999.0,5.013358579,-99999.0,-99999.0
+LSO,LS,Lesotho,4.264273523,1.517,16.147,-5.629,59.729
+LTE,V3,Late-demographic dividend,-99999.0,-99999.0,4.650800259,-99999.0,-99999.0
+LTU,LT,Lithuania,3.716620415,2.787,7.504,1.966,41.837
+LUX,LU,Luxembourg,1.652395152,1.574,5.935,8.759,26.353
+LVA,LV,Latvia,3.360171875,2.002,6.72,-2.519,48.322
+MAC,MO,"Macao SAR, China",0.755055689,3.594,2.437,30.01,0.0
+MAF,MF,St. Martin (French part),-99999.0,-99999.0,,-99999.0,-99999.0
+MAR,MA,Morocco,2.098100369,3.905,8.943,-1.951,68.938
+MCO,MC,Monaco,-99999.0,-99999.0,,-99999.0,-99999.0
+MDA,MD,Moldova,5.887693834,0.6,1.434,-14.48,36.285
+MDE,M1,Middle East (developing only),-99999.0,-99999.0,,-99999.0,-99999.0
+MDG,MG,Madagascar,8.93208124,3.94,3.012,-6.529,51.274
+MDV,MV,Maldives,5.272099498,4.469,4.636,-14.414,140.795
+MEA,ZQ,Middle East & North Africa,-99999.0,-99999.0,9.051837029,-99999.0,-99999.0
+MEX,MX,Mexico,4.506283799,-0.26,2.711,-0.492,60.664
+MHL,MH,Marshall Islands,-99999.0,2.527,,14.938,15.256
+MIC,XP,Middle income,-99999.0,-99999.0,5.040112162,-99999.0,-99999.0
+MKD,MK,North Macedonia,4.202166707,3.2,13.417,-2.16,52.915
+MLI,ML,Mali,5.491084065,4.9,3.06,-5.062,51.731
+MLT,MT,Malta,1.810197495,3.9,2.703,6.191,49.34
+MMR,MM,Myanmar,-99999.0,1.904,3.032,-2.4,62.6
+MNA,XQ,Middle East & North Africa (excluding high income),-99999.0,-99999.0,10.85874767,-99999.0,-99999.0
+MNE,ME,Montenegro,2.73717714,3.2,14.1,-15.232,60.325
+MNG,MN,Mongolia,8.054392199,6.043,5.424,-11.053,42.573
+MNP,MP,Northern Mariana Islands,-99999.0,-99999.0,,-99999.0,-99999.0
+MOZ,MZ,Mozambique,4.731789583,2.524,3.527,-41.251,101.076
+MRT,MR,Mauritania,1.837468283,4.445,10.373,-5.106,45.72
+MUS,MU,Mauritius,1.241035094,3.0,5.476,-4.848,83.398
+MWI,MW,Malawi,29.92741485,3.5,5.045,-14.726,72.957
+MYS,MY,Malaysia,1.541571898,4.1,3.826,1.643,70.082
+NAC,XU,North America,-99999.0,-99999.0,4.375764958,-99999.0,-99999.0
+NAF,M2,North Africa,-99999.0,-99999.0,,-99999.0,-99999.0
+NAM,,Namibia,3.668611883,3.783,-99999.0,-15.565,63.863
+NCL,NC,New Caledonia,-99999.0,-99999.0,11.15,-99999.0,-99999.0
+NER,NE,Niger,4.144131878,6.587,0.355,-3.767,43.394
+NGA,NG,Nigeria,34.42852472,3.039,2.989,6.879,52.522
+NIC,NI,Nicaragua,2.77013925,3.2,4.574,5.726,38.423
+NLD,NL,Netherlands,3.607548744,1.413,3.599,10.354,43.292
+NOR,NO,Norway,2.847064752,2.137,3.97,15.898,42.72
+NPL,NP,Nepal,4.394141145,4.047,10.706,0.656,49.358
+NRS,6X,Non-resource rich Sub-Saharan Africa countries,-99999.0,-99999.0,,-99999.0,-99999.0
+NRU,NR,Nauru,-99999.0,1.954,,2.286,15.203
+NXS,6N,"IDA countries not classified as fragile situations, excluding Sub-Saharan Africa",-99999.0,-99999.0,,-99999.0,-99999.0
+NZL,NZ,New Zealand,2.525651144,1.372,4.869,-4.916,55.292
+OED,OE,OECD members,-99999.0,-99999.0,4.905759909,-99999.0,-99999.0
+OMN,OM,Oman,0.822004426,2.33,3.161,-1.467,35.446
+OSS,S4,Other small states,-99999.0,-99999.0,7.384107361,-99999.0,-99999.0
+PAK,PK,Pakistan,1.533551751,2.649,5.472,-0.056,73.643
+PAN,PA,Panama,-0.244521406,4.0,6.518,-0.951,58.105
+PER,PE,Peru,1.396005683,2.84,4.828,1.693,33.695
+PHL,PH,Philippines,2.234636872,5.476,2.153,-3.424,58.142
+PLW,PW,Palau,0.513573001,5.741,,-30.521,64.66
+PNG,PG,Papua New Guinea,0.667492945,4.57,2.741,10.703,51.994
+POL,PL,Poland,5.169328789,3.237,2.472,-0.293,60.731
+PRE,V1,Pre-demographic dividend,-99999.0,-99999.0,4.564399648,-99999.0,-99999.0
+PRI,PR,Puerto Rico,-99999.0,-0.8,5.472,-99999.0,18.724
+PRK,KP,"Korea, Dem. People's Rep.",-99999.0,-99999.0,2.859,-99999.0,-99999.0
+PRT,PT,Portugal,2.256562566,1.96,6.384,1.699,91.791
+PRY,PY,Paraguay,4.15821501,3.8,6.093,-2.356,43.906
+PSE,PS,West Bank and Gaza,-99999.0,-99999.0,,-99999.0,-99999.0
+PSS,S2,Pacific island small states,-99999.0,-99999.0,3.140070801,-99999.0,-99999.0
+PST,V4,Post-demographic dividend,-99999.0,-99999.0,4.632407826,-99999.0,-99999.0
+PYF,PF,French Polynesia,-99999.0,-99999.0,11.75,-99999.0,-99999.0
+QAT,QA,Qatar,-0.478587087,2.41,0.126,10.802,40.496
+ROU,RO,Romania,4.945318287,1.597,5.379,-7.568,61.64
+RRS,R6,Resource rich Sub-Saharan Africa countries,-99999.0,-99999.0,,-99999.0,-99999.0
+RUS,RU,Russian Federation,-99999.0,1.456,2.527,1.855,21.383
+RWA,RW,Rwanda,4.785620798,7.109,11.994,-13.805,77.648
+SAS,8S,South Asia,-99999.0,-99999.0,4.563402125,-99999.0,-99999.0
+SAU,SA,Saudi Arabia,2.086788698,2.989,3.896,-4.015,34.849
+SDN,SD,Sudan,-99999.0,-0.379,,-3.627,251.981
+SEN,SN,Senegal,0.75163717,8.445,2.992,-8.19,111.434
+SGP,SG,Singapore,0.99423578,2.012,3.182,17.15,174.94
+SLB,SB,Solomon Islands,5.372373088,2.715,1.47,-7.843,23.734
+SLE,SL,Sierra Leone,12.5831219,4.659,3.126,-4.766,44.334
+SLV,SV,El Salvador,-0.030785018,2.479,2.839,-0.872,87.867
+SMR,SM,San Marino,1.14097579,1.0,,4.022,64.138
+SOM,SO,Somalia,5.533697463,4.0,18.861,-7.588,-99999.0
+SRB,RS,Serbia,4.492307692,3.463,7.39,-5.763,44.388
+SSA,ZF,Sub-Saharan Africa (excluding high income),-99999.0,-99999.0,5.823525367,-99999.0,-99999.0
+SSD,SS,South Sudan,258.7359569,-4.314,,-11.434,63.173
+SSF,ZG,Sub-Saharan Africa ,-99999.0,-99999.0,5.823525367,-99999.0,-99999.0
+SST,S1,Small states,-99999.0,-99999.0,7.106072815,-99999.0,-99999.0
+STP,ST,Sao Tome and Principe,11.47813786,3.125,9.17,-5.108,37.301
+SUR,SR,Suriname,9.944094731,3.202,7.325,-33.931,86.588
+SVK,SK,Slovak Republic,3.891050584,1.252,5.234,-1.906,60.104
+SVN,SI,Slovenia,1.870102271,1.8,3.357,3.63,67.987
+SWE,SE,Sweden,0.893807022,1.858,8.528,6.761,33.727
+SWZ,SZ,Eswatini,-99999.0,5.124,34.4,-2.435,37.815
+SXM,SX,Sint Maarten (Dutch part),-99999.0,-99999.0,,-99999.0,-99999.0
+SXZ,A4,Sub-Saharan Africa excluding South Africa,-99999.0,-99999.0,,-99999.0,-99999.0
+SYC,SC,Seychelles,0.273813912,3.526,,-8.858,59.32
+SYR,SY,Syrian Arab Republic,-99999.0,-99999.0,12.962,-99999.0,-99999.0
+TCA,TC,Turks and Caicos Islands,-99999.0,-99999.0,,-99999.0,-99999.0
+TCD,TD,Chad,4.745269287,1.72,1.088,-3.384,33.884
+TEA,T4,East Asia & Pacific (IDA & IBRD countries),-99999.0,-99999.0,3.901412435,-99999.0,-99999.0
+TEC,T7,Europe & Central Asia (IDA & IBRD countries),-99999.0,-99999.0,4.73453942,-99999.0,-99999.0
+TGO,TG,Togo,2.039501528,5.3,1.94,-3.056,69.5
+THA,TH,Thailand,0.468872338,1.8,0.693,1.179,64.513
+TJK,TJ,Tajikistan,-99999.0,6.694,11.635,0.863,28.436
+TKM,TM,Turkmenistan,-99999.0,2.255,4.304,1.996,4.504
+TLA,T2,Latin America & the Caribbean (IDA & IBRD countries),-99999.0,-99999.0,6.311528306,-99999.0,-99999.0
+TLS,TL,Timor-Leste,0.134156158,3.4,1.603,-21.222,13.852
+TMN,T3,Middle East & North Africa (IDA & IBRD countries),-99999.0,-99999.0,10.85874767,-99999.0,-99999.0
+TON,TO,Tonga,0.837696335,2.725,2.192,-6.947,44.128
+TSA,T5,South Asia (IDA & IBRD),-99999.0,-99999.0,4.563402125,-99999.0,-99999.0
+TSS,T6,Sub-Saharan Africa (IDA & IBRD countries),-99999.0,-99999.0,5.823525367,-99999.0,-99999.0
+TTO,TT,Trinidad and Tobago,0.806668459,2.367,4.546,8.001,67.773
+TUN,TN,Tunisia,6.490196078,1.43,16.203,-2.732,82.872
+TUR,TR,Turkiye,39.70587523,2.706,8.449,-1.192,26.673
+TUV,TV,Tuvalu,-99999.0,2.803,,5.599,3.257
+TZA,TZ,Tanzania,3.157588962,6.02,2.576,-3.008,47.085
+UGA,UG,Uganda,3.536860686,6.119,2.941,-6.362,53.956
+UKR,UA,Ukraine,13.62528501,2.0,,-15.934,110.001
+UMC,XT,Upper middle income,-99999.0,-99999.0,5.632421283,-99999.0,-99999.0
+URY,UY,Uruguay,5.276025115,2.844,8.401,-1.457,68.529
+USA,US,United States,2.736299439,1.826,4.106,-3.729,122.464
+UZB,UZ,Uzbekistan,10.00555432,5.899,4.488,-4.963,32.971
+VCT,VC,St. Vincent and the Grenadines,2.267932489,4.7,18.056,-15.405,93.546
+VEN,VE,"Venezuela, RB",-99999.0,-4.0,5.475,-0.067,164.272
+VGB,VG,British Virgin Islands,-99999.0,-99999.0,,-99999.0,-99999.0
+VIR,VI,Virgin Islands (U.S.),-99999.0,-99999.0,12.014,-99999.0,-99999.0
+VNM,VN,Viet Nam,3.221636984,5.152,1.431,3.2,33.566
+VUT,VU,Vanuatu,6.971904266,1.374,5.064,-10.49,48.532
+WLD,1W,World,-99999.0,-99999.0,4.89214997,-99999.0,-99999.0
+WSM,WS,Samoa,2.342391835,5.381,4.551,-0.479,22.49
+XKX,XK,Kosovo,-99999.0,-99999.0,,-99999.0,-99999.0
+XZN,A5,Sub-Saharan Africa excluding South Africa and Nigeria,-99999.0,-99999.0,,-99999.0,-99999.0
+YEM,YE,"Yemen, Rep.",-99999.0,-1.5,17.086,-12.082,71.24
+ZAF,ZA,South Africa,2.811107302,0.979,33.168,-1.232,79.551
+ZMB,ZM,Zambia,16.68722183,6.2,5.961,0.453,114.943
+ZWE,ZW,Zimbabwe,117.1204505,6.022,8.554,2.994,58.568

@@ -11,15 +11,6 @@ An interactive dashboard that maps real-time geopolitical news and financial ind
 - 📊 Country Deep Dive: Detailed analysis per country
 - 🔔 Risk Alerts: Real-time monitoring of political and economic instability
 
-## Project Structure
-
-- `src/`: Source code
-  - `data/`: Data collection and processing
-  - `models/`: ML models and sentiment analysis
-  - `visualization/`: Dashboard and map components
-  - `utils/`: Helper functions and configuration
-- `notebooks/`: Jupyter notebooks for model development
-- `tests/`: Unit tests
 
 ## Contributing
 
